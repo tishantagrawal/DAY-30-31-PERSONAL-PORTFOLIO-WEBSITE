@@ -1,0 +1,4 @@
+    <script src="https://kit.fontawesome.com/936d7d915d.js" crossorigin="anonymous"></script>
+
+
+@import url("https://fonts.googleapis.com/css2?family=Kablammo&family=Lato:ital,wght@1,400;1,700&family=Pacifico&family=Poppins&display=swap");
